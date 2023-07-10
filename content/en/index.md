@@ -1,4 +1,4 @@
-![logo](/logo.svg)
+![logo](/mamems_logo.png)
 
 # MAMEMS
 
