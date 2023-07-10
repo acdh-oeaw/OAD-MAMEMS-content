@@ -1,5 +1,5 @@
 ![logo](/logo.svg)
 
-# Titel
+# MAMEMS
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+The [Mount Athos in Medieval Eastern Mediterranean Society: Contextualizing the History of a Monastic Republic (ca. 850-1550)](https://mamems.uni-mainz.de/) project will constitute the first comprehensive examination of the monastic communities of Mount Athos as independent actors in medieval Eastern Mediterranean society. 
