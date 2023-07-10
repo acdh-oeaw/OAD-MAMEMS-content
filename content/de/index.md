@@ -1,4 +1,4 @@
-![logo](/OpenAtlasDiscovery_logo.jpg)
+![logo](/mamems_logo.png)
 
 # Titel
 
