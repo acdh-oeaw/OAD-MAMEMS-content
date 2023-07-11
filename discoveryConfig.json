@@ -2,5 +2,8 @@
   "defaultLocale": "en",
   "defaultFilters": [361],
   "APIbase": "https://mamems.openatlas.eu",
-  "imageDomains": ["openatlas.eu"]
+  "imageDomains": ["openatlas.eu"],
+  "primaryColor": "#228292",
+  "headerLogo": "/mamems.png",
+  "tite": "Discover MAMEMS"
 }
